@@ -1,5 +1,4 @@
 .idea
-/.gitignore
 ### Terraform template
 #  Local .terraform directories
 **/.terraform/*
